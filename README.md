@@ -41,7 +41,8 @@ J’aime apprendre de nouvelles technologies, améliorer mes compétences à tra
 
 ### 📊 GitHub Stats
 
-![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=AitAddiHamza1&show_icons=true&theme=default)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AitAddiHamza1&show_icons=true)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AitAddiHamza1&layout=compact)
 
