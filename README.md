@@ -13,8 +13,6 @@ J’aime apprendre de nouvelles technologies, améliorer mes compétences à tra
 
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="320px"/>
-
 ### 🧐 Plus à propos de moi :
 
 - 🎓 &nbsp; Étudiant en **Génie Informatique**
@@ -40,11 +38,10 @@ J’aime apprendre de nouvelles technologies, améliorer mes compétences à tra
 </p>
 
 ### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AitAddiHamza1&show_icons=true&theme=dark)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AitAddiHamza1&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AitAddiHamza1&layout=compact&theme=dark)
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AitAddiHamza1&layout=compact)
 
 <br/>
 
