@@ -29,42 +29,15 @@ J’aime apprendre de nouvelles technologies, améliorer mes compétences à tra
 
 ### 🔨 Langages et Outils :
 
-<a href="https://www.java.com/" target="_blank">
-  <img align="left" alt="Java" height="42px"
-  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"/>
-</a>
-
-<a href="https://www.postgresql.org/" target="_blank">
-  <img align="left" alt="PostgreSQL" height="42px"
-  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/postgresql/postgresql.svg"/>
-</a>
-
-<a href="https://git-scm.com/" target="_blank">
-  <img align="left" alt="Git" height="42px"
-  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg"/>
-</a>
-
-<a href="https://www.mysql.com/" target="_blank">
-  <img align="left" alt="MySQL" height="42px"
-  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/mysql/mysql.svg"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-  <img align="left" alt="HTML" height="42px"
-  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/html/html.svg"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-  <img align="left" alt="CSS" height="42px"
-  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/css/css.svg"/>
-</a>
-
-<a href="https://wordpress.org/" target="_blank">
-  <img align="left" alt="WordPress" height="42px"
-  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/wordpress/wordpress.svg"/>
-</a>
-
-<br/><br/>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="45"/>
+</p>
 
 ### 📊 GitHub Stats
 
