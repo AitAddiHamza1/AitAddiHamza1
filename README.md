@@ -35,7 +35,7 @@ J’aime apprendre de nouvelles technologies, améliorer mes compétences à tra
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="45"/>
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg](https://www.google.com/imgres?q=react&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F3%2F30%2FReact_Logo_SVG.svg&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FReact_(software)&docid=Fiz1iGC5gm0AcM&tbnid=1YRCTmBnER_nsM&vet=12ahUKEwiK0-H4zYOUAxV83wIHHQI6C8kQnPAOegQIGBAB..i&w=800&h=728&hcb=2&ved=2ahUKEwiK0-H4zYOUAxV83wIHHQI6C8kQnPAOegQIGBAB)" width="45"/>
+  <img src="https://en.wikipedia.org/wiki/React_%28software%29" width="45"/>
 </p>
 
 ### 📊 GitHub Stats
