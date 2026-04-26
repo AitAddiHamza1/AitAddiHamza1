@@ -29,7 +29,7 @@ J’aime apprendre de nouvelles technologies, améliorer mes compétences à tra
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
-  <img src="[https://assets.stickpng.com/thumbs/5848152fcef1014c0b5e4967.png](https://i.pinimg.com/1200x/ca/2c/ed/ca2ceddcd9c28a22c449286f3fe66751.jpg)" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
