@@ -40,9 +40,9 @@ J’aime apprendre de nouvelles technologies, améliorer mes compétences à tra
 </p>
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AitAddiHamza1&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AitAddiHamza1&show_icons=true&theme=dark&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AitAddiHamza1&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AitAddiHamza1&layout=compact&theme=dark&cache_seconds=1800)
 
 
 <br/>
