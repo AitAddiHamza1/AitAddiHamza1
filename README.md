@@ -48,10 +48,3 @@ J’aime apprendre de nouvelles technologies, améliorer mes compétences à tra
 </p>
 
 <br/>
-
-### 🛠️ Projets
-
-- 📌 Application desktop Java – gestion de coopérative laitière  
-- 📌 Projets académiques en Java et bases de données  
-- 📌 Travaux pratiques en programmation orientée objet  
-
